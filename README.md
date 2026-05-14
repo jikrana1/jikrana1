@@ -46,8 +46,27 @@ Git • GitHub • REST APIs • JWT Authentication • VS Code • Cloudinary
 ## 📫 Connect With Me
 
 * 💼 LinkedIn:https://www.linkedin.com/in/jikrana-machhaliya-622738387/
-* 🌐 Portfolio: Your_Portfolio_Link
 * 📧 Email: [your_email@gmail.com](jikranamachhaliya786@gmail.com)
+
+---
+
+## ✨ Featured Projects
+
+### 🛒 Shopping Cart App
+
+React + Redux Toolkit based shopping cart with dynamic state management
+
+### 🍔 Recipe Discovery App
+
+API-based recipe finder using JavaScript and modern UI
+
+### 🌍 REST Countries Project
+
+Country information app using REST Countries API
+
+### 🎮 Tic-Tac-Toe Game
+
+Interactive React game with winner logic and state management
 
 ---
 
