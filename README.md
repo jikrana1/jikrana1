@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Jikrana
 
-<!--
-**jikrana1/jikrana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack | React & Node.js 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+* 💻 Passionate about building modern web applications
+* 🌱 Currently learning Advanced React & Backend Development
+* ⚡ Exploring Open Source & GSSoC Contributions
+* 🎨 Interested in UI/UX Design & AI Creative Designs
+* 📚 Improving my DSA and JavaScript skills daily
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+
+HTML • CSS • JavaScript • React.js • Redux Toolkit • Tailwind CSS • Bootstrap
+
+### ⚙️ Backend
+
+Node.js • Express.js
+
+### 🗄️ Database
+
+MongoDB 
+
+### 🛠️ Tools & Technologies
+
+Git • GitHub • REST APIs • JWT Authentication • VS Code • Cloudinary
+
+---
+
+## 📈 Currently Working On
+
+* 🔥 Open Source Contributions
+* ⚛️ Advanced React Concepts
+* 🧠 Data Structures & Algorithms
+* 🎨 Modern Responsive UI Designs
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn:https://www.linkedin.com/in/jikrana-machhaliya-622738387/
+* 🌐 Portfolio: Your_Portfolio_Link
+* 📧 Email: [your_email@gmail.com](jikranamachhaliya786@gmail.com)
+
+---
+
+## 🌟 Fun Fact
+
+✨ I love creating beautiful UIs and learning new technologies every day.
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
