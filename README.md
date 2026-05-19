@@ -46,7 +46,7 @@ Git • GitHub • REST APIs • JWT Authentication • VS Code • Cloudinary
 ## 📫 Connect With Me
 
 * 💼 LinkedIn:https://www.linkedin.com/in/jikrana-machhaliya-622738387/
-* 📧 Email: [your_email@gmail.com](jikranamachhaliya786@gmail.com)
+* 📧 Email:jikranamachhaliya786@gmail.com
 
 ---
 
