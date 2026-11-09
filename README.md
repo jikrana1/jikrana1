@@ -1,79 +1,54 @@
-# Hi 👋, I'm Jikrana
+<h2 align="center">Hi, I'm Jikrana Machhaliya</h2>
+<h3 align="center">Full Stack MERN Developer | Open Source Contributor</h3>
 
-### Full Stack Developer | MERN Stack | React & Node.js 🚀
+### About Me
 
----
-
-## 🌸 About Me
-
-* 💻 Passionate about building modern web applications
-* 🌱 Currently learning Advanced React & Backend Development
-* ⚡ Exploring Open Source & GSSoC Contributions
-* 🎨 Interested in UI/UX Design & AI Creative Designs
-* 📚 Improving my DSA and JavaScript skills daily
-
----
-
-## 🚀 Tech Stack
-
-### 🌐 Frontend
-
-HTML • CSS • JavaScript • React.js • Redux Toolkit • Tailwind CSS • Bootstrap
-
-### ⚙️ Backend
-
-Node.js • Express.js
-
-### 🗄️ Database
-
-MongoDB 
-
-### 🛠️ Tools & Technologies
-
-Git • GitHub • REST APIs • JWT Authentication • VS Code • Cloudinary
+- Passionate about building modern web applications
+- Full Stack MERN Developer with experience building frontend and backend applications
+- Actively exploring Open Source and GSSoC Contributions
+- Interested in Open Source collaboration, UI/UX Design, and AI Creative Designs
+- Enjoy exploring real-world codebases, fixing meaningful issues, and improving existing features
+- Focused on improving DSA and JavaScript skills daily
+- Focused on consistent Open Source contributions and real-world development
 
 ---
 
-## 📈 Currently Working On
+### Tech Stack
 
-* 🔥 Open Source Contributions
-* ⚛️ Advanced React Concepts
-* 🧠 Data Structures & Algorithms
-* 🎨 Modern Responsive UI Designs
+**Frontend:** HTML, CSS, JavaScript, React, Redux Toolkit, Tailwind CSS, Bootstrap
 
----
+**Backend:** Node.js, Express.js, REST APIs
 
-## 📫 Connect With Me
+**Database:** MongoDB
 
-* 💼 LinkedIn:https://www.linkedin.com/in/jikrana-machhaliya-622738387/
-* 📧 Email:jikranamachhaliya786@gmail.com
+**Other:** Git, GitHub, Authentication, API Integration, VS Code, Cloudinary
 
 ---
 
-## ✨ Featured Projects
+## Open Source
 
-### 🛒 Shopping Cart App
+I am actively contributing to Open Source and learning through real-world projects and collaboration.
 
-React + Redux Toolkit based shopping cart with dynamic state management
+My focus is on:
 
-### 🍔 Recipe Discovery App
+- Understanding large codebases and existing workflows
+- Finding and fixing meaningful issues
+- Building features and improving existing functionality
+- Collaborating with maintainers and contributors
+- Making consistent contributions and improving through code reviews
 
-API-based recipe finder using JavaScript and modern UI
+### What I'm Looking For
 
-### 🌍 REST Countries Project
+I'm interested in:
 
-Country information app using REST Countries API
-
-### 🎮 Tic-Tac-Toe Game
-
-Interactive React game with winner logic and state management
-
----
-
-## 🌟 Fun Fact
-
-✨ I love creating beautiful UIs and learning new technologies every day.
+- Open Source contribution opportunities
+- Long-term collaboration with Open Source communities
+- Mentorship and learning from experienced contributors
+- Contributing to projects where I can create meaningful impact
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+### Connect With Me
+
+- **LinkedIn:** [jikrana](https://www.linkedin.com/in/jikrana-r-622738387/)
+- **Email:** [jikranamachhaliya786@gmail.com](mailto:jikranamachhaliya786@gmail.com)
